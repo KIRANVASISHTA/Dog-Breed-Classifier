@@ -1,5 +1,9 @@
 # Dog-Breed-Classifier
 
+## Overview:
+
+The goal of this project to use the CNNs to predict the dog breeds from the provided images. This explores other concepts such as image augmentation. Please look into the blog post(link provided) below for the same.
+
 ## DataSet:
 The data used by this project is provided by Udacity in the workspace. Even so for the reference, i am adding the links for the same below.
 

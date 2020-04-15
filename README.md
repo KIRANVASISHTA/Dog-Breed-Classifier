@@ -36,6 +36,4 @@ Open and run through all the cells in the "dog_app.ipynb" in the main directory
 ## Blog Link:
 For the detailed report on my observation on this project please refer to my blog-post on medium by accessing one of the below link.
 
-https://medium.com/@kiranvasishta1/dog-breed-classifier-using-convolution-neural-networks-cnns-507d126a9185?sk=c54b77b2ca6bb4766a33db7fd25ef5a1
-
 https://medium.com/@kiranvasishta1/dog-breed-classifier-using-convolution-neural-networks-cnns-507d126a9185
